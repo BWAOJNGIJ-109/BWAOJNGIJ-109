@@ -1,1 +1,1 @@
-<img src="./ngi.jpg" width="100%">
+<img src="./bngi.jpg" width="100%">
